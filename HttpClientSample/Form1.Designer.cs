@@ -35,7 +35,7 @@ namespace HttpClientSample
             // 
             // Post
             // 
-            this.Post.Location = new System.Drawing.Point(190, 65);
+            this.Post.Location = new System.Drawing.Point(146, 65);
             this.Post.Name = "Post";
             this.Post.Size = new System.Drawing.Size(103, 41);
             this.Post.TabIndex = 0;
